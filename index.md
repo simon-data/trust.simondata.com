@@ -8,7 +8,7 @@ Simon Data is built for security
 
 # Compliance
 
-<img src="/static/soc.png" width="200" style="float:left" />
-
-<img src="/static/gdpr.png" width="110" style="float:left" />
-
+<span>
+<img src="/static/soc.png" width="200" />
+<img src="/static/gdpr.png" width="110" />
+</span>
