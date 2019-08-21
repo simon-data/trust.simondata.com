@@ -11,4 +11,5 @@ Simon Data is built for security
 <span>
 <img src="/static/soc.png" width="200" />
 <img src="/static/gdpr.png" width="110" />
+<img src="/static/privacyshield.png" height="110" />
 </span>
