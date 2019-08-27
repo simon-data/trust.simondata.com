@@ -104,7 +104,7 @@ We may combine non-personally identifiable information collected through cookies
 
 You can control and/or delete cookies as you wish – for details, see aboutcookies.org. Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work. We strongly recommend that you leave cookies active, because they enable you to take advantage of the most attractive features of the Services.
 
-Further information on cookies can be found at http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm .
+Further information on cookies can be found at [http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm](http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm).
 
 What types of cookies do we use and for which purposes?
 We use the following types of Cookies:
@@ -316,7 +316,7 @@ You may request to review, correct, delete or otherwise modify any of the person
 Simon’s Customers may electronically submit data or information to the Simon Data Platform for hosting and processing purposes (“Customer Data”). Simon will not review, share, distribute, or reference any such Customer Data except as provided in an applicable Master Subscription Agreement, or as may be required by law. Simon may access Customer Data only for the purpose of providing the services or preventing or addressing service or technical problems, or as may be required by law.
 
 ## Minors
-Simon does not knowingly collect personal information from children under 16. If you become aware that a child has provided us with personal information, please contact us at REPORT-ABUSE@SIMONDATA.COM. If we become aware that a child under 16 has provided us with personal information, we will take steps to immediately delete such information.
+Simon does not knowingly collect personal information from children under 16. If you become aware that a child has provided us with personal information, please contact us at [report-abuse@simondata.com](mailto:report-abuse@simondata.com). If we become aware that a child under 16 has provided us with personal information, we will take steps to immediately delete such information.
 
 ## Subprocessors
 Simon Data's current list of subprocessors can be found HERE.
@@ -337,10 +337,10 @@ If you have any questions about this section or our data practices generally, pl
 	</td>
 </tr>
 <tr>
-<td>Email address for contact:</td><td>[privacy@simondata.com](mailto:privacy@simondata.com)</td>
+<td>Email address for contact:</td><td><a href="mailto:privacy@simondata.com">privacy@simondata.com</a></td>
 </tr>
 <tr> 	
-<td>Data Protection Officer and contact information:</td><td>[privacy@simondata.com](mailto:privacy@simondata.com)</td>
+<td>Data Protection Officer and contact information:</td><td><a href="mailto:privacy@simondata.com">privacy@simondata.com</a></td>
 </tr>
 <tr> 	
 <td>Designated representative and contact information:</td>
@@ -349,7 +349,7 @@ If you have any questions about this section or our data practices generally, pl
  Simon Data<br>
  Ballindamm 39<br>
  20095 Hamburg<br>
- E-Mail:  simondata@gdpr-rep.com
+ E-Mail: <a href="mailto:simondata@gdpr-rep.com">simondata@gdpr-rep.com</a>
  </td>
 </tr>
 </tbody></table>
