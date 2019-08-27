@@ -331,8 +331,8 @@ If you have any questions about this section or our data practices generally, pl
 <tr>
 	<td>Physical address:</td>
 	<td>Simon Data <br>
-	    54 West 14th Street <br>
-	    2nd Floor <br>
+	    154 W 14th St <br>
+	    7th Floor <br>
 	    New York, NY 10011
 	</td>
 </tr>
