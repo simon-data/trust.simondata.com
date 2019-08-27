@@ -109,23 +109,128 @@ Further information on cookies can be found at http://ec.europa.eu/ipg/basics/le
 What types of cookies do we use and for which purposes?
 We use the following types of Cookies:
 
-Cookie	Name	Expiration	Purpose	Opt-out
-LinkedIn	UserMatchHistory	180 days	Third Party	LINKEDIN OPT-OUT
-LinkedIn	bcookie	2 years	Third Party	LINKEDIN OPT-OUT
-LinkedIn	BizoID	180 days	Third Party	LINKEDIN OPT-OUT
-LinkedIn	lidc	1 day	Third Party	LINKEDIN OPT-OUT
-LinkedIn	lang	Session	Third Party	LINKEDIN OPT-OUT
-Hubspot	hubspotutk	10 years	Third Party	HUBSPOT OPT-OUT
-Hubspot	__hssrc	Session	Third Party	HUBSPOT OPT-OUT
-Hubspot	__hstc	2 years	Third Party	HUBSPOT OPT-OUT
-Drift	driftt_aid	2 years	Functionality	
-Heap Analytics	_hp2_id.*	2 years	Analytical	
-Simon Data	sessionid	1 week	Analytical	
-Simon Data	_ju_dc	1 year	Functionality	
-Simon Data	_ju_dn	1 month	Essential	
-Simon Data	lang	Session	Essential	
-Simon Data	sd_client_id	2 years/td>	Essential	
-Simon Data	sd_identity	Session	Essential	
+<table border="1">
+	<tbody><tr>
+		<th>Cookie</th>
+		<th>Name</th>
+		<th>Expiration</th>
+		<th>Purpose</th>
+		<th>Opt-out</th>
+	</tr>
+	<tr>
+		<td>LinkedIn</td>
+		<td>UserMatchHistory</td>
+		<td>180 days</td>
+		<td>Third Party</td>
+		<td><a href="https://www.linkedin.com/help/linkedin/answer/62931/manage-advertising-preferences">LinkedIn Opt-out</a></td>
+	</tr>
+	<tr>
+		<td>LinkedIn</td>
+		<td>bcookie</td>
+		<td>2 years</td>
+		<td>Third Party</td>
+		<td><a href="https://www.linkedin.com/help/linkedin/answer/62931/manage-advertising-preferences">LinkedIn Opt-out</a></td>
+	</tr>
+	<tr>
+		<td>LinkedIn</td>
+		<td>BizoID</td>
+		<td>180 days</td>
+		<td>Third Party</td>
+		<td><a href="https://www.linkedin.com/help/linkedin/answer/62931/manage-advertising-preferences">LinkedIn Opt-out</a></td>
+	</tr>
+	<tr>
+		<td>LinkedIn</td>
+		<td>lidc</td>
+		<td>1 day</td>
+		<td>Third Party</td>
+		<td><a href="https://www.linkedin.com/help/linkedin/answer/62931/manage-advertising-preferences">LinkedIn Opt-out</a></td>
+	</tr>
+	<tr>
+		<td>LinkedIn</td>
+		<td>lang</td>
+		<td>Session</td>
+		<td>Third Party</td>
+		<td><a href="https://www.linkedin.com/help/linkedin/answer/62931/manage-advertising-preferences">LinkedIn Opt-out</a></td>
+	</tr>
+	<tr>
+		<td>Hubspot</td>
+		<td>hubspotutk</td>
+		<td>10 years</td>
+		<td>Third Party</td>
+		<td><a href="http://preferences-mgr.truste.com/">Hubspot Opt-out</a></td>
+	</tr>
+	<tr>
+		<td>Hubspot</td>
+		<td>__hssrc</td>
+		<td>Session</td>
+		<td>Third Party</td>
+		<td><a href="http://preferences-mgr.truste.com/">Hubspot Opt-out</a></td>
+	</tr>
+	<tr>
+		<td>Hubspot</td>
+		<td>__hstc</td>
+		<td>2 years</td>
+		<td>Third Party</td>
+		<td><a href="http://preferences-mgr.truste.com/">Hubspot Opt-out</a></td>
+	</tr>
+	<tr>
+		<td>Drift</td>
+		<td>driftt_aid</td>
+		<td>2 years</td>
+		<td>Functionality</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Heap Analytics</td>
+		<td>_hp2_id.*</td>
+		<td>2 years</td>
+		<td>Analytical</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Simon Data</td>
+		<td>sessionid</td>
+		<td>1 week</td>
+		<td>Analytical</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Simon Data</td>
+		<td>_ju_dc</td>
+		<td>1 year</td>
+		<td>Functionality</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Simon Data</td>
+		<td>_ju_dn</td>
+		<td>1 month</td>
+		<td>Essential</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Simon Data</td>
+		<td>lang</td>
+		<td>Session</td>
+		<td>Essential</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Simon Data</td>
+		<td>sd_client_id</td>
+		<td>2 years/td&gt;
+		</td><td>Essential</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Simon Data</td>
+		<td>sd_identity</td>
+		<td>Session</td>
+		<td>Essential</td>
+		<td></td>
+	</tr>
+	
+	</tbody></table>	
 
 
 ### Essential Cookies
@@ -153,7 +258,7 @@ You can decide whether or not to accept Cookies. One way you can do this is thro
 
 To explore what Cookie setting are available to you, look in the "preferences" or "options" section of your browser's menu.
 
-If you have any queries regarding this Cookie Policy please contact us at PRIVACY@SIMONDATA.COM.
+If you have any queries regarding this Cookie Policy please contact us at [privacy@simondata.com](mailto:privacy@simondata.com).
 
 ## Protection and Storage
 Our operations are supported by a network of computers, cloud-based servers, and other infrastructure and information technology, including, but not limited to, the use of third-party service providers. We, and third-party service providers on our behalf, store and process your personal information in the United States and elsewhere in the world. If your information is transferred to other countries, including countries which may not have data protection laws that provide the same level of protection that exists in your country, we will protect the information as described in this Privacy Notice.
@@ -178,14 +283,14 @@ If you are a resident of the European Union (“EU”), United Kingdom, Lichtens
 
 For this section, we use the terms “Personal Data” and “processing” as they are defined in the GDPR, but “Personal Data” generally means information that can be used to individually identify a person, and “processing” generally covers actions that can be performed in connection with data such as collection, use, storage and disclosure. Simon will be the controller of your Personal Data processed in connection with the Services.
 
-If there are any conflicts between this section and any other provision of this Privacy Notice, the policy or portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at PRIVACY@SIMONDATA.COM. Note that we may also process Personal Data of our customers’ end users or employees in connection with our provision of services to customers, in which case we are the processor of Personal Data. If we are the processor of your Personal Data (i.e., not the controller), please contact the controller party in the first instance to address your rights with respect to such data.
+If there are any conflicts between this section and any other provision of this Privacy Notice, the policy or portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at [privacy@simondata.com](mailto:privacy@simondata.com). Note that we may also process Personal Data of our customers’ end users or employees in connection with our provision of services to customers, in which case we are the processor of Personal Data. If we are the processor of your Personal Data (i.e., not the controller), please contact the controller party in the first instance to address your rights with respect to such data.
 
 
 ## What Rights Do You Have Regarding Your Personal Data?
-You have certain rights with respect to your Personal Data, including those set forth below. For more information about these rights, or to submit a request, please email PRIVACY@SIMONDATA.COM. Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision. In some cases, we may also need to you to provide us with additional information, which may include Personal Data, if necessary to verify your identity and the nature of your request.
+You have certain rights with respect to your Personal Data, including those set forth below. For more information about these rights, or to submit a request, please email [privacy@simondata.com](mailto:privacy@simondata.com). Please note that in some circumstances, we may not be able to fully comply with your request, such as if it is frivolous or extremely impractical, if it jeopardizes the rights of others, or if it is not required by law, but in those circumstances, we will still respond to notify you of such a decision. In some cases, we may also need to you to provide us with additional information, which may include Personal Data, if necessary to verify your identity and the nature of your request.
 
-* Access: You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access certain of your Personal Data by contacting us at PRIVACY@SIMONDATA.COM.
-* Rectification: If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. You can correct some of this information directly by contacting us at PRIVACY@SIMONDATA.COM.
+* Access: You can request more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access certain of your Personal Data by contacting us at [privacy@simondata.com](mailto:privacy@simondata.com).
+* Rectification: If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. You can correct some of this information directly by contacting us at [privacy@simondata.com](mailto:privacy@simondata.com).
 * Erasure: You can request that we erase some or all of your Personal Data from our systems.
 * Withdrawal of Consent: If we are processing your Personal Data based on your consent (as indicated at the time of collection of such data), you have the right to withdraw your consent at any time. Please note, however, that if you exercise this right, you may have to then provide express consent on a case-by-case basis for the use or disclosure of certain of your Personal Data, if such use or disclosure is necessary to enable you to utilize some or all of our Services.
 * Portability: You can ask for a copy of your Personal Data in a machine-readable format. You can also request that we transmit the data to another controller where technically feasible.
@@ -195,17 +300,17 @@ You have certain rights with respect to your Personal Data, including those set 
 
 
 ## Transfers of Personal Data
-The Services are hosted and operated in the United States (“U.S.”) through Simon and its service providers, and if you do not reside in the U.S., laws in the U.S. may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Simon in the U.S. and will be hosted on U.S. servers, and you authorize Simon to transfer, store and process your information to and in the U.S., and possibly other countries according to the principles in the EU-US Privacy Shield Framework. You hereby consent to the transfer of your data to the U.S. pursuant to another safeguard(s) for cross-border transfer: (i) a data processing agreement incorporating standard data protection clauses promulgated by the EC, a copy of which can be obtained at https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087.
+The Services are hosted and operated in the United States (“U.S.”) through Simon and its service providers, and if you do not reside in the U.S., laws in the U.S. may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Simon in the U.S. and will be hosted on U.S. servers, and you authorize Simon to transfer, store and process your information to and in the U.S., and possibly other countries according to the principles in the EU-US Privacy Shield Framework. You hereby consent to the transfer of your data to the U.S. pursuant to another safeguard(s) for cross-border transfer: (i) a data processing agreement incorporating standard data protection clauses promulgated by the EC, a copy of which can be obtained at [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087).
 
 Simon Data has certified to the EU.-U.S. Privacy Shield Framework set forth by the U.S. Department of Commerce regarding the collection and use of Personal Data transferred from the EU. For more information about the Privacy Shield Program, and to view Company’s certification, please visit www.privacyshield.gov. Company is committed to the Privacy Shield Principles of (1) notice, (2) consent, (3) accountability for onward transfer, (4) security, (5) data integrity and purpose limitation, (6) access and (7) recourse, enforcement and liability with respect to all Personal Data received from within the EU in reliance on the Privacy Shield. The Privacy Shield Principles require that we remain potentially liable if any third party processing Personal Data on our behalf fails to comply with these Privacy Shield Principles (except to the extent we are not responsible for the event giving rise to any alleged damage). Company’s compliance with the Privacy Shield is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
 
-Please contact us at PRIVACY@SIMONDATA.COM with any questions or concerns relating to our Privacy Shield Certification. If you do not receive timely acknowledgment of your Privacy Shield-related complaint from us, or if we have not resolved your complaint, you may also resolve a Privacy Shield-related complaint through JAMS, an alternative dispute resolution provider located in the United States. You can visit https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim for more information or to file a complaint, at no cost to you. Under certain conditions, you may also be entitled to invoke binding arbitration for complaints not resolved by other means.
+Please contact us at [privacy@simondata.com](mailto:privacy@simondata.com) with any questions or concerns relating to our Privacy Shield Certification. If you do not receive timely acknowledgment of your Privacy Shield-related complaint from us, or if we have not resolved your complaint, you may also resolve a Privacy Shield-related complaint through JAMS, an alternative dispute resolution provider located in the United States. You can visit https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim for more information or to file a complaint, at no cost to you. Under certain conditions, you may also be entitled to invoke binding arbitration for complaints not resolved by other means.
 
 
 ## Correcting and updating your information
 Simon may retain your information for a period of time consistent with the original purpose of collection (for instance, we may retain your information for during the time in which you have an active Simon Data account), and for a reasonable period of time afterward. We also may retain your information during the period of time needed for Simon to pursue our legitimate business interests, conduct audits, comply with our legal obligations, resolve disputes and enforce our agreements.
 
-You may request to review, correct, delete or otherwise modify any of the personal information that you have previously provided to us through Simon’s website or the Simon Data Platform. Direct all such requests to PRIVACY@SIMONDATA.COM. Requests to access, change, or delete your information will be addressed within the legally permissible timeframe.
+You may request to review, correct, delete or otherwise modify any of the personal information that you have previously provided to us through Simon’s website or the Simon Data Platform. Direct all such requests to [privacy@simondata.com](mailto:privacy@simondata.com). Requests to access, change, or delete your information will be addressed within the legally permissible timeframe.
 
 ## Customer Data
 Simon’s Customers may electronically submit data or information to the Simon Data Platform for hosting and processing purposes (“Customer Data”). Simon will not review, share, distribute, or reference any such Customer Data except as provided in an applicable Master Subscription Agreement, or as may be required by law. Simon may access Customer Data only for the purpose of providing the services or preventing or addressing service or technical problems, or as may be required by law.
@@ -219,17 +324,33 @@ Simon Data's current list of subprocessors can be found HERE.
 What If You Have Questions Regarding Your Personal Data?
 If you have any questions about this section or our data practices generally, please contact using the following information:
 
-Name:	Simon Data, Inc.
-Physical address:	Simon Data 
-54 West 14th Street 
-2nd Floor 
-New York, NY 10011
-Email address for contact:	privacy@simondata.com
-Data Protection Officer and contact information:	privacy@simondata.com
-Designated representative and contact information:	DP-Dock GmbH 
-Simon Data
-Ballindamm 39
-20095 Hamburg
-E-Mail: simondata@gdpr-rep.com
-
+<table border="1">
+<tbody><tr>
+<td>Name:</td><td>Simon Data, Inc.</td>
+</tr>
+<tr>
+	<td>Physical address:</td>
+	<td>Simon Data <br>
+	    54 West 14th Street <br>
+	    2nd Floor <br>
+	    New York, NY 10011
+	</td>
+</tr>
+<tr>
+<td>Email address for contact:</td><td>[privacy@simondata.com](mailto:privacy@simondata.com)</td>
+</tr>
+<tr> 	
+<td>Data Protection Officer and contact information:</td><td>[privacy@simondata.com](mailto:privacy@simondata.com)</td>
+</tr>
+<tr> 	
+<td>Designated representative and contact information:</td>
+<td>
+ DP-Dock GmbH <br>
+ Simon Data<br>
+ Ballindamm 39<br>
+ 20095 Hamburg<br>
+ E-Mail:  simondata@gdpr-rep.com
+ </td>
+</tr>
+</tbody></table>
 
