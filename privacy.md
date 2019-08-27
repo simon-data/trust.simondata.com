@@ -6,7 +6,7 @@ title: Simon Data Trust & Security
 # Simon Data Privacy Statement
 (revised March 16, 2019)
 
-Simon Data, Inc. (“Simon” or “Simon Data”) is committed to protecting the privacy of individuals. This Privacy Notice ("Privacy Notice") explains how information is collected, used and disclosed by Simon, and applies to information collected when you use or access our online or mobile websites (such as WWW.SIMONDATA.COM), products and services (collectively, the "Simon Data Platform" or "Services"), or when you attend a Simon event, or otherwise interact with us.
+Simon Data, Inc. (“Simon” or “Simon Data”) is committed to protecting the privacy of individuals. This Privacy Notice ("Privacy Notice") explains how information is collected, used and disclosed by Simon, and applies to information collected when you use or access our online or mobile websites (such as [www.simondata.com](https://simondata.com)), products and services (collectively, the "Simon Data Platform" or "Services"), or when you attend a Simon event, or otherwise interact with us.
 
 We respect the privacy rights of users and recognize the importance of protecting information collected about you. Please read the following carefully to understand how we will collect, use and maintain your personal information, as well as your choices regarding use, access and correction of your personal information.
 
@@ -22,7 +22,7 @@ Simon collects the following types of personal information:
 ### Information you provide to us
 We collect information you provide directly to us including when you visit one of our websites, register for and/or use Simon Data Services.
 
-For example, we collect information when you request information via a form on our website; participate in a survey, contest, promotion, sweepstakes, activity or event; make a purchase; apply for a job; requesprivacy@t customer support; or communicate with us via third-party social media sites.
+For example, we collect information when you request information via a form on our website; participate in a survey, contest, promotion, sweepstakes, activity or event; make a purchase; apply for a job; submit a privacy request; request customer support; or communicate with us via third-party social media sites.
 
 The types of information we may collect directly from you include your name, username, email address, postal address, phone number, employer’s name, job title, transactional information (including services purchased or subscribed to and billing address) as well as any contact or other information you choose to provide.
 
